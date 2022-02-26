@@ -1,0 +1,223 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An apology for purchases of lands late of bishops deans and chapters</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75504</idno>
+            <idno type="STC">Wing A3547</idno>
+            <idno type="STC">Thomason 669.f.25[75]</idno>
+            <idno type="STC">ESTC R330</idno>
+            <idno type="EEBO-CITATION">99872340</idno>
+            <idno type="PROQUEST">99872340</idno>
+            <idno type="VID">163880</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75504)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163880)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f25[75])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An apology for purchases of lands late of bishops deans and chapters</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "1660. Aug. 20.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Bishops --  Early works to 1800.</term>
+               <term>Church lands --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:163880:1" rendition="simple:additions"/>
+            <head>AN APOLOGY For Purchaſes of Lands late of Biſhops Deans and Chapters.</head>
+            <p>THere is no Inſtitution to no end; but whenever the Reaſon thereof ceaſeth,<note place="margin">Biſhops.</note> the Law or Inſtitution it ſelf doth in proportion relax its force. The end for which the Biſhop-pricks were endowed with ſuch ample Revenues, was to ſupport the ſtate and ſplendor of Barronage and Seſſion in Parliament, wherewith the Biſhops were digni<g ref="char:EOLhyphen"/>fied, as with Lay-<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ees, the <hi>Honoraria</hi> of ſuch their imployment. Work and Wages are relatives: If the imployment fails, ſo doth the reaſon of the reward; but by an Act of King, Lords and Commons<note n="*" place="margin">17. <hi>Car. c.</hi> 28.</note> 17 <hi>Car.</hi> c 28. their being Barons, Lords of Parliament is taken away, and ſo the reaſon of their greatneſs.</p>
+            <p>The Biſhops had ſeverall capacities, <hi>viz.</hi> Spirituall and Temporall, and ſeverall Revenues diſtinguiſht by the names of Spiritualties and Temporalties. The Spiritualties of a Biſhop (in the words of D<hi rend="sup">r</hi> 
+               <hi>Cowell</hi>
+               <note n="a" place="margin">D<hi rend="sup">r</hi> 
+                  <hi>Cowells</hi> Interpreter of Law-words, dedicated to the late Arch-Biſhop of <hi>Can<g ref="char:EOLhyphen"/>terbury.</hi>
+               </note>) be theſe profits which he receiveth as he is a Biſhop, and not as he is a Bar<g ref="char:EOLhyphen"/>ron of the Parliament. <hi>Stawnford Pl. cor. fol.</hi> 132. The Particulars of theſe may be the duties of his Viſitation, his benefit growing from the Ordering and Inſtituting Prieſts, Preſtation money, that <hi>ſubſidium charitativum,</hi> which upon reaſonable cauſe he may require of his Clergy; <hi>Johan<g ref="char:EOLhyphen"/>nes Gregorius de beneficiis, cap.</hi> 6. <hi>num.</hi> 9. and the benefit of his Juriſdiction; <hi>Joachimus Stephanus de Juriſdict. lib.</hi> 4. <hi>c.</hi> 14. <hi>num.</hi> 14. for theſe reckneth <hi>Exactionem Cathedratici, quartam Decimarum &amp; mortuariorum &amp; oblationum penſitationem, celebrationem Synodi, Collationem viatici vel commeatus cum Epiſcopus R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mam Proficiſcitur, Jus Hospitii, Litaniam &amp; Proceſſionem.</hi> There are none of theſe ſold.</p>
+            <p>The Temporalties of Biſhops in the ſame Doctors words, be ſuch Revenues, Lands and Tene<g ref="char:EOLhyphen"/>ments, as Biſhops have had laid to their Seas as Barons and Lords of the Parliament.</p>
+            <p>In former times when Parliaments were holden frequently almoſt every<note n="b" place="margin">4. <hi>Ed.</hi> 3. <hi>c.</hi> 13.36. <hi>Ed.</hi> 3. <hi>c.</hi> 10.</note> year, and uncertainly at ſeverall places, as at <hi>Rutland</hi>
+               <note n="c" place="margin">10. <hi>Ed.</hi> 1.</note>, <hi>Acton Burnell</hi>
+               <note n="d" place="margin">11. <hi>Ed.</hi> 1.</note>, <hi>Wincheſter</hi>
+               <note n="e" place="margin">13. <hi>Ed.</hi> 1.</note> , <hi>Exeter</hi>
+               <note n="f" place="margin">14. <hi>Ed.</hi> 1.</note> , <hi>York, Gl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſter, Carliſle,</hi> and other remote parts, the Biſhops and Mitred Abbots who were Lords of Parliament, could not, without their great eſtates of Baronies, defray the charge of ſo great journeys as became their dignity. The<note n="g" place="margin">4. <hi>Inſtitut.</hi> 35.45. <hi>Doderidge</hi> of Nobility. 61.</note> Abbots of <hi>Leiceſter</hi> and <hi>Northampton</hi> being ſummoned as Lords of Parliament, and ſetting forth by Petition, that they held not <hi>per Baroniam, ſed tantum in pura Eleemoſyna,</hi> were diſcharged; but the Biſhop of <hi>Wincheſter</hi>
+               <note n="h" place="margin">
+                  <hi>Crompton.</hi> 4.</note> holding by Barony and departing from the Parliament without licence, was arraigned in the Kings Bench.</p>
+            <p>That they held their Lands as Temporall Eſtates, appears. <hi>Rott. Patent.</hi> 18 H. 3. m. 17. <hi>Mandatum eſt omnibus Epiſcopis,</hi> &amp;c. <hi>Sicut Baronias ſuas diligant, nullo modo praeſumant conſilium tenere de aliquibus quae ad Coronam Regis pertinent, vel quae perſonam Regis, vel ſtatum ſuum, vel ſtatum concilii ſui contin<g ref="char:EOLhyphen"/>gunt, ſcituri pro certo quod ſi fecerint Rex inde ſe capiat ad Baronias ſuas.</hi> The King did frequently upon their<note n="i" place="margin">21. <hi>Ed.</hi> 3.3.5. <hi>Rep. f.</hi> 12, 13.</note> contempts, ſeize the Temporalties of Biſhops into his hands. In time of Vacancy, the King leaving the Spiritualties to the Ordinary, ſeized the Temporalties into his hands, and granted them during the vacation to whom he liſt; ſee<note n="k" place="margin">S<hi rend="sup">r</hi> 
+                  <hi>Rob. Cot<g ref="char:EOLhyphen"/>tons</hi> Abridge<g ref="char:EOLhyphen"/>ment.</note> 
+               <hi>Rot. Parliament.</hi> 8 H. 4. <hi>num.</hi> 91. The Temporalties of <hi>Durham</hi> granted to <hi>John</hi> of <hi>Lancaſter</hi> the Kings Son, and the Temporalties of the Biſhop of <hi>London</hi> farmed out, rendring to the King a Thouſand pound <hi>per ann.</hi>
+            </p>
+            <p>The King ſometimes held the Temporalties a long while in his hands, by delay of the Popes allowance of their Elections, or of the Pall, or of Conſecration; ſometime there were double and treble Elections and Suites thereupon in the Court of <hi>Rome,</hi>
+               <note place="margin">
+                  <hi>Lamberts</hi> Per<g ref="char:EOLhyphen"/>ambulation of <hi>Kent</hi> in <hi>Canter<g ref="char:EOLhyphen"/>bury</hi> and <hi>Ro<g ref="char:EOLhyphen"/>cheſter.</hi> 134.217.270.</note> as upon the voidance of the See of <hi>Canterbury,</hi> upon three pretences of <hi>Reynold</hi> the Subprior, <hi>John Gray</hi> and <hi>Stephen Langton;</hi> at another time the Monks of <hi>Rocheſter</hi> choſe one <hi>Sandford</hi> for their Biſhop, the Monks of <hi>Canter<g ref="char:EOLhyphen"/>bury</hi> oppoſed the Election, challenging that the Paſtorall Staffe or Croſier of <hi>Rocheſter</hi> ought of very right to be brought to their houſe, after the death of the Biſhop, and that they ought to make the Election. The difference was once compounded by <hi>Hubert de Burgh</hi> chief Juſtice of <hi>England,</hi> but afterwards followed afreſh at <hi>Rome</hi> three years together. The King in ſuch ca<g ref="char:EOLhyphen"/>ſes lackt a Lord in Parliament, took the Temporalties to himſelf, and left the Spiritualties to their proper Guardian; but Lands are no Spiritualties.</p>
+            <p>
+               <hi>Odo</hi> Biſhop of <hi>Bayeux</hi> was Earl of <hi>Kent, Oſmond</hi> Biſhop of <hi>Salisbury</hi> was Earl of <hi>Dorſet</hi> and <hi>Seez,</hi>
+               <note place="margin">
+                  <hi>Cambden.</hi> 252.215. and in <hi>Scotland.</hi> 11.</note> and <hi>Robert Steward</hi> Biſhop of <hi>Cathnes</hi> was Earl of <hi>Lenox</hi> and <hi>March.</hi> When the firſt of theſe was in diſpleaſure of the King, and priviledged as a Biſhop, he was yet impriſoned as an Earl, loſt all his goods, and was abjured the Realme. The Biſhop<note n="*" place="margin">
+                  <hi>Cambden.</hi> 744. and 820.</note> 
+               <hi>Pudſey</hi> and <hi>Walcher</hi> were Earls of <hi>Northumberland.</hi> The Biſhop of <hi>Durham</hi>
+               <note n="l" place="margin">4. <hi>Inſtit.</hi> 218, 220. 27. <hi>H.</hi> 8. <hi>c.</hi> 24.</note> was a Count Palatine within his Biſhopprick, where he had <hi>Jura Regalia,</hi> (that is Temporall Courts, Writs, and Proceſs in his own name, a Power to make Juſtices to pardon offences, and to have Royall Eſcheats.) The Biſhop of <hi>Ely</hi> alſo had a Royall Franchiſe within the Iſle of <hi>Ely.</hi> The Biſhop of the Iſle of<note n="m" place="margin">4. <hi>Inſt.</hi> Iſle of <hi>Man.</hi>
+               </note> 
+               <hi>Man</hi> had neither, nor was he a Lord of Parliament. So a Biſhop may be a Biſhop, and no Earl or Lord partaker
+<pb n="2" facs="tcp:163880:2"/>in the Sovereign or Legiſlative Power, and then being allowed his Spiritualties, hath all that is due to his Spirituall office.</p>
+            <p>By what divine Right or Pretence Deans and Chapters challenge ſo great Eſtates,<note place="margin">Deans and Chapters.</note> 
+               <hi>Non conſtat.</hi> Were it ſo that the Goſpell were now firſt planting here as in the <hi>Indies,</hi> and a Biſhop ſet up to advance the converſion of Infidels within ſuch a Circuit, it might be prudentiall while there were but few Miniſters,<note place="margin">
+                  <hi>Selden</hi> of Tythes. <hi>c.</hi> 6, 7, 8.</note> and before the diſtribution of his Dioces into Pariſhes, to aſſociate di<g ref="char:EOLhyphen"/>vers Miniſters together, who ſhould as Itinerants travell from place to place, for the gaining and confirming of Believers, as anciently in Boothes or Tents of hurdles, occaſionally ſet up in the fields,<note place="margin">
+                  <hi>G.M.</hi> on Doctor <hi>Ridleys</hi> view of the civill Law. 197. <hi>Fullers</hi> Eccle<g ref="char:EOLhyphen"/>ſiaſticall Hi<g ref="char:EOLhyphen"/>ſtory. 7.</note> or at croſs wayes, or other publick places of reſort. And in ſuch caſe their maintenance being brought into a common ſtock, at the See or reſidence of their Curator or Biſhop in whom they centered their correſpondence, thoſe who thus laboured in the Miniſtery, ſhould out of this common ſtock have their portions. It is not unlike by the Trace of Antiquity but that it was ſo in <hi>England,</hi> when a Dioceſs was but as one great Pariſh, and Preachers ſent about as Meſſengers. And after interior or Parochiall Churches were founded at great diſtance, the Pa<g ref="char:EOLhyphen"/>riſh Prieſts had not all the Tythes to themſelves, but a man might pay his Tythes to what<note n="*" place="margin">4. <hi>Inſtit.</hi> 641, 642. <hi>Selden</hi> of Tythes. <hi>c.</hi> 6, 7, and 9. Dr <hi>Ridley.</hi> 153.</note> Prieſt he would; and incaſe he neglected to pay any, the Biſhop and not the particular Curate of his Precinct recovered them, the Biſhops being treaſurers of the Community, their making dividends or <hi>Praebenda</hi> of ſuch common ſtock, to the encouragement of ſuch Miniſters as went up and down Preaching, and were not otherwiſe provided for, was not without Reaſon. Now if Deanes and Chapters be ſuch an aſſociation as make it their buſineſſe to ſupply places void of Miniſters, and enlighten our dark corners, they are worthily to be encouraged; but if they claim ſhares or dividends out of a common ſtock, Lands, or Tithes, only as companions to the Biſhop, or living in another Dioceſs, or for vain pomp and grandure, they have no intereſt in this Reaſon.</p>
+            <p>It ſeems that the Names, Numbers and Functions of Deans and Chapters were not alike but various, <hi>ad libitum</hi> of the founder. For as to Names, at S<hi rend="sup">t</hi> 
+               <hi>Davids</hi>
+               <note n="a" place="margin">
+                  <hi>Cambd.</hi> 651.</note> they were called Canons, at <hi>Salisbury</hi>
+               <note n="b" place="margin">
+                  <hi>Cambd.</hi> 248.</note> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rebends. As to number, at <hi>Chicheſter</hi>
+               <note n="c" place="margin">
+                  <hi>Cambd.</hi> 307.</note> , <hi>Wells</hi>
+               <note n="d" place="margin">
+                  <hi>Cambd.</hi> 232.</note> , &amp;c. they were thirty or more; at <hi>Hereford</hi> eight and twenty;<note n="e" place="margin">
+                  <hi>Cambd.</hi> 619.</note> 
+               <note n="f" place="margin">
+                  <hi>Cambd.</hi> 337.</note> at <hi>Canterbury</hi> twelve; at <hi>Briſtoll</hi> and <hi>Rocheſter</hi> but ſix. And in their Functions there will be no leſs difference;<note n="g" place="margin">
+                  <hi>Cambd.</hi> 238.</note> if beſides that ſome of them were Elective and ſome Donative.<note n="h" place="margin">
+                  <hi>Cambd.</hi> 333.</note> And beſides the differences of Names and Numbers, the meaning of Petty-Ca<g ref="char:EOLhyphen"/>nons, Petty-Prebends, Reſidents, and Non-reſidents be conſidered; it ſeems ſome of them were Dignitaries <hi>ſine curâ,</hi> by their <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>liles of Non-reſidence, for whom the Church might be as little the better, as for Italians and other aliens. who had benefices here, whom the flock never ſaw or heard any thing of, but by their Collectors Cellerers and hard Names; the Lord Cardinall of <hi>Agrifolio,</hi> the Lord Cardinall <hi>Viverino,</hi> &amp;c.</p>
+            <p>Beſides ſome of the Chapters were anciently Seculars and ſome Regulars; the Seculars were Presbyters, and as ſuch by their Preaching and converſation, might aid the Biſhop in the cure of ſouls; but Regulars, <hi>(viz.)</hi> Moncks, were lockt up in Cloyſters, and ſeldome or never went abroad.<note place="margin">4. <hi>Inſt.</hi> 222. <hi>Camb.</hi> 741.161. <hi>Fuller.</hi>
+               </note> How could ſuch an Inſtitution of a Chapter of Moncks contribute to the overſight of the Dioces? Yet Prior and Covent of Monckes were the Chapters at <hi>Ely, Durham, Wincheſter, Worcester, Carliſle,</hi> &amp;c. and theſe Chapters were diſſolved with other Moneſteryes, and their Lands veſted in the King, who keeping part of the Lands, or converting them to other uſes, Erected Deanes and Prebends of a fewer number in their places, and in the New Sees of <hi>Che<g ref="char:EOLhyphen"/>ſter, Gloceſter, Peterborrough,</hi> &amp;c. What have theſe New Chapters to do more then the Moncks? in ſome things not ſo much. For the Moncks could by Election fill up void Seates in the Covent, and chooſe their Biſhop and Prior, but many of theſe can neither chooſe Biſhop or Deane, the New Elections having adviſedly made them<note n="*" place="margin">1 <hi>Inſt.</hi> 95. Davis <hi>Reports</hi> 45.</note> Donative, at the Kings pleaſure, and under his im<g ref="char:EOLhyphen"/>mediate Rule and Order, exempt from the Juriſdiction of the Biſhop, who could neither de<g ref="char:EOLhyphen"/>prive nor viſit them.</p>
+            <p>Some Biſhoppricks had no Chapters particularly, the Biſhop of <hi>Meath</hi>
+               <note n="a" place="margin">Cambd. <hi>in</hi> Ireland 95.</note> in <hi>Ireland,</hi> the Biſhop there acts by the Counſel and Advice of the Clergy of his Dioceſſe. The Biſhop<note n="b" place="margin">Britania 755.</note> of the <hi>Iſle</hi> of <hi>Man,</hi> ſeems to have had no Chapter, for he was anciently choſen by the Moncks of <hi>Fourneſſe</hi> in <hi>Lancaſhire.</hi> On the other ſide, as theſe Biſhops had no Chapter, ſome had two,<note n="c" place="margin">Leonards <hi>Rep.</hi> 235. Dier. 58, 283, 12. <hi>Rep.</hi> 71.</note> as <hi>Coventry</hi> and <hi>Litchfield.</hi> The Biſhop of <hi>Dublin</hi> had ſometime two Chapters, <hi>viz. Chriſtchurch</hi> and S<hi rend="sup">t</hi> 
+               <hi>Pa<g ref="char:EOLhyphen"/>trick's,</hi> in one Town. A Dioceſſe of one ſingle County, hath ſometimes had two Chapters, as <hi>Bath</hi> and <hi>Wells, Waterford</hi> and <hi>Liſmoore;</hi> whenas the Biſhop of <hi>Lincolne,</hi> before the late Erecti<g ref="char:EOLhyphen"/>ons of <hi>Oxford</hi> and <hi>Peterborrough,</hi> had but one Chapter for his Dioces of eight Counties, and part of more.</p>
+            <p>Upon this whole matter, if ſome of them had ſpecial Functions which others had not, if ſome of them were uncapable by their Order of Overſeeing the Dioces, if <hi>Jus Divinum</hi> ſail in the neceſſity of their Conſtitution, and if ſome Dioceſſes have none, they may be look't upon as vo<g ref="char:EOLhyphen"/>luntary Inſtitutions of ſeveral times, and in ſeveral manners, that might have been or not been at all. And it will follow, that there was no Moral everlaſting Obligation of continuing Biſhops, Deanes and Chapters, juſt in this or that faſhion or altitude: witneſſe the Judgment of the late Primate of <hi>Armagh,</hi>
+               <note place="margin">Former A<g ref="char:EOLhyphen"/>lienations.</note> in his Sheet lately Printed of the Reduction of Epiſcopacy.</p>
+            <p>The Lands of Biſhops and their Chapters, were not more ſacred than the Tithes of Preaching
+<pb n="3" facs="tcp:163880:3"/>Miniſters, but ſuch Tithes by their own old Law have been alien'd: witneſſe<note n="*" place="margin">Cambden 161, 162. Selden <hi>of Tithes.</hi>
+               </note> 3845 Vica<g ref="char:EOLhyphen"/>redges in <hi>England,</hi> whoſe Incumbents had nothing but the <hi>Minutae Decimae</hi> and altarage, or ſome Arbitrary Salaries, when the Gleab and greater Tithes were appropriate to Biſhops and their Chapters, and in ſome places to Nunneryes, (though Nunnes were uncapable of the Miniſtry.) In other places, to houſes of Moncks, who ſeldome or never went without the walls of their Cloyſters and Sanctuaries, who poſſeſſed not the Tithes as any part of the Evangelical Clergy or Prieſthood. In other places, to the maintaining Souldiers in the Warres: witneſſe the Gleabs, Tithes, and Exemptions granted to Orders of Knights employed in the holy Warre: witneſſe alſo hundreds of Vicaredges, whoſe Curates very well know, that the Biſhops, Deanes and Chapters took the Tithes of their Pariſhes, but came not at the people. And no doubt, but if Tithes might be thus aliened, much more might Lands. Biſhops, Deanes and Chapters, might and anciently did alien their Lands themſelves, as well as any other Corporations: witneſſe <hi>Dorſet</hi> Houſe, <hi>Eſſex</hi> Houſe, <hi>Arundell</hi> Houſe, <hi>Yorke</hi> Houſe, <hi>Lincolnes</hi> Inne, and many other great Houſes about <hi>London,</hi> formerly belonging to the Biſhops of <hi>Salisbury, Bath</hi> and <hi>Wells, Carliſle, Norwich,</hi> and <hi>Chicheſter,</hi> &amp;c. And witneſſe the Mannours of <hi>Sherborne</hi> and <hi>Kirton,</hi> as by M<hi rend="sup">r</hi> 
+               <hi>Fullers</hi> Hiſtories of Abbyes 270. and his 17 Century 27.</p>
+            <p>Sometimes the Kings have Reſumed Lands from the Church, or Religious Houſes ſo called; as when the Abbeſſe and Nunnes<note n="a" place="margin">Cambden 362.</note> of <hi>Barkley</hi> were with Child, their Nunnery was diſſolved by <hi>Edward</hi> the Confeſſor, their Perſonal faults puniſhed in their order, and their Lands conferr'd upon a Lay Earl; when the ſame King had given the County of<note n="b" place="margin">Cambden 526.</note> 
+               <hi>Rutland</hi> to S<hi rend="sup">t</hi> 
+               <hi>Peters Weſtmin<g ref="char:EOLhyphen"/>ſter,</hi> his Succeſſor reſumed it. In <hi>Edward</hi> the Seconds time, the Lands of the<note n="c" place="margin">2. <hi>Inſt.</hi> 432.</note> Templars were beſtowed upon the Hoſpitallers; in <hi>Hen.</hi> 5. time, the Eſtates of Priors Aliens, ſome of which were before frequently ſeized upon, were all veſted in the King. In <hi>Hen.</hi> 8. time, Cardinal <hi>Woolſey,</hi> by licence of the King and Pope,<note place="margin">Camden 163.</note> ſuppreſt fourty ſmall Monaſteries to lay their Lands to his two Colledges in <hi>Oxford</hi> and <hi>Ipſwich.</hi> The Stat. 27. <hi>Hen.</hi> 8. cap. 28. gave the Lands of 375 Religious Houſes, not worth 200<hi rend="sup">lb</hi> 
+               <hi>per annum,</hi> to the King; ſhortly after, he obtained all the Abbeys and Priories, and with them the Lands of the Chapters of divers Biſhopricks, conſiſting of Prior and Covent. The Satutes 37. <hi>Hen.</hi> 8. cap. 4. and 1 <hi>Edw.</hi> 6. cap. 14. gave the King the Lands of all Chanteries, Free-Chappels, and Colledges, whereof there were great numbers, as at <hi>Plymton, Kirton</hi> and S<hi rend="sup">t</hi> 
+               <hi>Mary Ottery</hi>
+               <note n="*" place="margin">Cambden 101.203, 206.</note> in <hi>Devon,</hi> S<hi rend="sup">t</hi> 
+               <hi>Marie's</hi> and S<hi rend="sup">t</hi> 
+               <hi>Chad's</hi> in<note n="d" place="margin">Dambden 596.</note> 
+               <hi>Shrewſbury,</hi> Reſembling ſome Deanes and Chapters. Theſe would call their Poſſeſſions as ſacred and Inviolable as others. Beſides the diſſolutions of Chapters, and of Deanes and Prebends, a Biſhoprick alſo, hath been diſſolved by Act of Parliament, and the Lands veſted in the Crown. See <hi>Raſtall,</hi> Title <hi>Durham.</hi>
+            </p>
+            <p>After all theſe ſuppreſſions, when at Queen <hi>Maries</hi> coming in, the See of <hi>Rome</hi> was again em<g ref="char:EOLhyphen"/>braced,<note place="margin">Common Peace.</note> and the Queen had voluntarily reſtored ſome of theſe Lands, not a foot was taken from the Lords or Commons, but all their Poſſeſſions, notwithſtanding the Objections of Schiſme and Sacriledge, eſtabliſhed. And which is very remarkable, the Convocation of the Clergy in the firſt and ſecond of <hi>Philip</hi> and <hi>Mary,</hi> preſent them a Supplication in Latin, Printed at large,<note place="margin">1 <hi>&amp;</hi> 2 P. <hi>&amp;</hi> M. <hi>c.</hi> 8.</note> in the Stat. cap. 8. Premiſing, <hi>That though they ought to labour all that might be for the Recovery and Revocation of all Rights of the Church, loſt in the Pernicious Schiſme, yet having maturely deliberated, they do ingenuouſly Confeſſe, that they ſee the Revocation to be difficult and</hi> Quaſi <hi>impoſſible, for the ma<g ref="char:EOLhyphen"/>ny and almoſt inextricable Contracts and Diſpoſitions thereof had, and that if it ſhould be attempted, the quiet and Tranquility of the Kingdom might be eaſily diſturbed, and the unity of the Catholick Church would with difficulty attain its Progreſſe and End. Therefore preferring the Publick good and quiet, and the ſaving of ſouls, before worldly wealth, and private advantage, and not ſeeking their own, but the things of Jeſus Chriſt, they ſupplicate their Majeſty's in their Names, to intercede with Cardinal</hi> Poole, <hi>then Legate, from the Pope,</hi> Utin hijs bonis Eccleſiaſticis elargiendis &amp; relaxandis, Publi<g ref="char:EOLhyphen"/>cum bonum Privato ante ponere velit. <hi>Whereunto as they give their own conſents, ſo they pray that he will not be hard or ſtrict.</hi>
+            </p>
+            <p>The Cardinal (by a Diſpenſation Printed in the ſame Statute) <hi>doth remit and releaſe them to all Perſons to whoſe hands they are come,</hi> (Licet indebitè,) <hi>Willing and Decreeing, that the Poſſeſſors ſhould not, in reſpect thereof, be moleſted upon any Decretalls, General or Provincial Coun<g ref="char:EOLhyphen"/>cils,</hi> &amp;c. <hi>and that no Cenſure or Pain ſhould be inflicted on them, for the detaining or not reſtoring there<g ref="char:EOLhyphen"/>of; and the Statute Ordaines, that whoſoever ſhould inquiet or moleſt any of the Poſſeſſors, contra<g ref="char:EOLhyphen"/>ry to the meaning of the Act, ſhould incurre the Paines of Premunire.</hi> This Supplication, Diſpenſa<g ref="char:EOLhyphen"/>tion and Act, may be inſtances of Moderation and Judgment in the Clergy, Reſolution and Wiſ<g ref="char:EOLhyphen"/>dome in a Parliament, which would not deſtroy a Family for the holyeſt Fryer in a Province. Whatever inconſideration or thirſt, may otherwiſe warpe the Ingenuities of ſuch as are led by their private Benefits, to regain what others have thought beſt to quit, and what fruits of con<g ref="char:EOLhyphen"/>tent Charity and good will, the Experiment will afford them, time will ſhew.</p>
+            <p>There hath been a little skill ſhewn, by ſuperſtitious men, in frighting others from intermed<g ref="char:EOLhyphen"/>ing in theſe Sales, by ſtories of misfortune and unluckineſſe, in the Lay Poſſeſſors of Church-Lands. There are few Gentlemen, who know their Counties, that cannot give Inſtances of ſuch Lands ſtill remaining in the Families to which they were firſt given. Witneſſe great E<g ref="char:EOLhyphen"/>ſtates of ſuch Lands in the Lord Marqueſſe of <hi>Hertford,</hi> of the Houſe of <hi>Rutland,</hi> and moſt E<g ref="char:EOLhyphen"/>minent
+<pb n="4" facs="tcp:163880:4"/>Families; and if they have known one Eſtate in ſuch Lands ſold, can ſay the like of o<g ref="char:EOLhyphen"/>ther Eſtates as great as they. If the Duke of <hi>Sommerſet,</hi> and Marqueſſe of <hi>Northampton</hi> were ſhortly attainted, and their Monaſteries of <hi>Glaſconbury</hi> and <hi>Winchombe</hi> returned to the Crown On the other ſide, the Earl of <hi>Weſtmoreland,</hi> and his partakers in the North, among other things; for the reſtoring of ſuch Lands, (though they eſcaped with their lives beyond Sea,) became, wandring Monuments of as great miſery and ruine. For the better Teſt of ſo many great Eſtates by Inſtances of one ſort, let the Mitred Abbots be examined, and from thence a judgment made of the reſt. Theſe were twenty ſix, and had no great change till of late; for by M<hi rend="sup">r</hi> 
+               <hi>Fallers</hi> Hiſtory of Abbeys, it appears that divers of them remained in the Crown, <hi>viz. Crowland, Selby,</hi> S<hi rend="sup">t</hi> 
+               <hi>Maries</hi> in <hi>Yorke,</hi> &amp;c. Others in the Private Families on which they were conferred, <hi>viz. Thor<g ref="char:EOLhyphen"/>ney</hi> in <hi>Ruſſell,</hi>
+               <note place="margin">Q. of <hi>Tave<g ref="char:EOLhyphen"/>ſtoke.</hi>
+               </note> Earl of <hi>Bedford, Battell</hi> in <hi>Browne,</hi> Lord <hi>Mountague; Midleton</hi> in <hi>Tregonwell, Ram<g ref="char:EOLhyphen"/>ſey</hi> in <hi>Cromwell,</hi> S<hi rend="sup">t</hi> 
+               <hi>Johns</hi> in <hi>Hales,</hi> S<hi rend="sup">t</hi> 
+               <hi>Albans</hi> in the Heirs of S<hi rend="sup">t</hi> 
+               <hi>Ralph Sadler, Waltham</hi> in the Earl of <hi>Carliſle,</hi> Heir of the Lord <hi>Denaye.</hi> And others to other uſes; as S<hi rend="sup">t</hi> 
+               <hi>Bennet de Hulmo</hi> united to <hi>Norwich, Weſtminſter</hi> to the Deane Prebend, and School there; <hi>Gloſter</hi> and <hi>Peterborrough</hi> to the Biſhops, (Quaere the reſt.) And if five or ſix, out of twenty ſix, have in an hundred years changed their Maſters, ſo have other Eſtates. And let men beware of ſaying, <hi>That thoſe upon whom the Tower of</hi> Siloam <hi>fell, were greater ſinners then they.</hi>
+            </p>
+            <p>If it be granted, that theſe Inſtitutions of Biſhops, Deanes and Chapters, were Prudentiall ſimply; if they have ſwarved from ſome, omitted others, and by Law been outted of more parts of their Intruſtment, though their whole being were not taken away, by that Act of 1641. there was yet Reaſon, that they might be abated in the Exhibitions allowed them for ſuch parts thereof, as they no longer performed. And ſo far there may be juſt ground, of otherwiſe diſpoſing a conſiderable part of their Eſtates.</p>
+            <p>The Sales, beſides the leſſe Publique and Generall uſe of Biſhops, and the taking away of all coercive Power from them by another Statute 17. <hi>Car.</hi> cap. 11. were brought on by other moſt important Reaſons: The Nation groaned under vaſt Debts, under the burden of a Scotch Army, under a great Army of Engliſh, and ſupernumeraryes (more then they;) un<g ref="char:EOLhyphen"/>der the intollerable eating Moath, Free-quarter: And beſide all this, a Warre in <hi>Ireland,</hi> that could not feed it ſelf, but with Supplyes from <hi>England.</hi> All theſe would be Provided for, but the Taxes, which yet were greater then <hi>England</hi> ever knew before, were as nothing to diſcharge them.</p>
+            <p>There is no ſuch meaſure of ill conſequence, in the Sale of theſe Lands, as in keeping up two Armies, ſupernumeraryes, and Free-quarter, or as in continuing Sequeſtrations upon the Eſtates of ſuch as were under hardſhip, or as in ſuch Exceſſe burdens, as would have deſtroyed Pri<g ref="char:EOLhyphen"/>vate mens Eſtates. If ever neceſſity lay upon an oppreſſed People, of reſorting to unuſual waies of eaſe, our times have ſeen it: And conſtraint goes farre in excuſing, what otherwiſe were not warrantable. Marriners (the Governours of a Ship) may, in extream Tempeſt, throw any mans goods over-board, to ſave the reſt.</p>
+            <p>The ſame thing may be juſt or unjuſt, puniſhable or not puniſhable, upon Circumſtances. It is the part of an Accuſer, rather then a Judge, to determine of Crimes, and not to admit Ex<g ref="char:EOLhyphen"/>cuſes, and Extenuations. Chriſt Jeſus, the great Paſtour and Biſhop of our ſouls, hath taught us, that man was not made for the Sabbath, but the Sabbath for man: The like of Laws. <hi>Da<g ref="char:EOLhyphen"/>vid</hi> and his followers, were Excuſed for eating the Shew-bread, in extream hunger, though before then, it were not lawfull <hi>for him, or any to eat it, but only for the Prieſts.</hi>
+            </p>
+            <p>
+               <hi>Reſtant Multa.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
